@@ -1,9 +1,11 @@
 
 /*ONS Your CSS Code here. */
 
+.gallery img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: block;
+    max-width: 100%;
+  }
 
-img{
-	width:100px;
-	height:100px;
-
-}
