@@ -2,8 +2,8 @@
 /*ONS Your CSS Code here. */
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 1fr;
+    height: 1fr;
     display: block;
     max-width: 100%;
   }
